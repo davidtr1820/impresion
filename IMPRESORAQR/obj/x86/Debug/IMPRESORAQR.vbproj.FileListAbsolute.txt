@@ -1,0 +1,44 @@
+C:\Documents and Settings\Jorgito\Configuración local\Datos de programa\Temporary Projects\IMPRESORAQR\bin\Debug\IMPRESORAQR.exe
+C:\Documents and Settings\Jorgito\Configuración local\Datos de programa\Temporary Projects\IMPRESORAQR\bin\Debug\IMPRESORAQR.pdb
+C:\Documents and Settings\Jorgito\Configuración local\Datos de programa\Temporary Projects\IMPRESORAQR\bin\Debug\IMPRESORAQR.xml
+C:\Documents and Settings\Jorgito\Configuración local\Datos de programa\Temporary Projects\IMPRESORAQR\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jorgito\Configuración local\Datos de programa\Temporary Projects\IMPRESORAQR\obj\x86\Debug\IMPRESORAQR.Form1.resources
+C:\Documents and Settings\Jorgito\Configuración local\Datos de programa\Temporary Projects\IMPRESORAQR\obj\x86\Debug\IMPRESORAQR.Resources.resources
+C:\Documents and Settings\Jorgito\Configuración local\Datos de programa\Temporary Projects\IMPRESORAQR\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Jorgito\Configuración local\Datos de programa\Temporary Projects\IMPRESORAQR\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Jorgito\Configuración local\Datos de programa\Temporary Projects\IMPRESORAQR\obj\x86\Debug\IMPRESORAQR.exe
+C:\Documents and Settings\Jorgito\Configuración local\Datos de programa\Temporary Projects\IMPRESORAQR\obj\x86\Debug\IMPRESORAQR.xml
+C:\Documents and Settings\Jorgito\Configuración local\Datos de programa\Temporary Projects\IMPRESORAQR\obj\x86\Debug\IMPRESORAQR.pdb
+C:\Documents and Settings\Jorgito\mis documentos\visual studio 2010\Projects\IMPRESORAQR\IMPRESORAQR\obj\x86\Debug\IMPRESORAQR.exe
+C:\Documents and Settings\Jorgito\mis documentos\visual studio 2010\Projects\IMPRESORAQR\IMPRESORAQR\obj\x86\Debug\IMPRESORAQR.xml
+C:\Documents and Settings\Jorgito\mis documentos\visual studio 2010\Projects\IMPRESORAQR\IMPRESORAQR\obj\x86\Debug\IMPRESORAQR.pdb
+C:\Documents and Settings\Jorgito\Mis documentos\Visual Studio 2010\Projects\IMPRESORAQR\IMPRESORAQR\bin\Debug\IMPRESORAQR.exe
+C:\Documents and Settings\Jorgito\Mis documentos\Visual Studio 2010\Projects\IMPRESORAQR\IMPRESORAQR\bin\Debug\IMPRESORAQR.pdb
+C:\Documents and Settings\Jorgito\Mis documentos\Visual Studio 2010\Projects\IMPRESORAQR\IMPRESORAQR\bin\Debug\IMPRESORAQR.xml
+C:\Documents and Settings\Jorgito\Mis documentos\Visual Studio 2010\Projects\IMPRESORAQR\IMPRESORAQR\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jorgito\Mis documentos\Visual Studio 2010\Projects\IMPRESORAQR\IMPRESORAQR\obj\x86\Debug\IMPRESORAQR.Resources.resources
+C:\Documents and Settings\Jorgito\Mis documentos\Visual Studio 2010\Projects\IMPRESORAQR\IMPRESORAQR\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Jorgito\Mis documentos\Visual Studio 2010\Projects\IMPRESORAQR\IMPRESORAQR\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Jorgito\Mis documentos\Visual Studio 2010\Projects\IMPRESORAQR\IMPRESORAQR\obj\x86\Debug\IMPRESORAQR.IMPRESORA.resources
+\\192.168.15.15\grifos\2018\NUEVO SISTEMA 2017\IMPRESORAQR\IMPRESORAQR\bin\Debug\IMPRESORAQR.exe
+\\192.168.15.15\grifos\2018\NUEVO SISTEMA 2017\IMPRESORAQR\IMPRESORAQR\bin\Debug\IMPRESORAQR.pdb
+\\192.168.15.15\grifos\2018\NUEVO SISTEMA 2017\IMPRESORAQR\IMPRESORAQR\bin\Debug\IMPRESORAQR.xml
+\\192.168.15.15\grifos\2018\NUEVO SISTEMA 2017\IMPRESORAQR\IMPRESORAQR\obj\x86\Debug\ResolveAssemblyReference.cache
+\\192.168.15.15\grifos\2018\NUEVO SISTEMA 2017\IMPRESORAQR\IMPRESORAQR\obj\x86\Debug\IMPRESORAQR.IMPRESORA.resources
+\\192.168.15.15\grifos\2018\NUEVO SISTEMA 2017\IMPRESORAQR\IMPRESORAQR\obj\x86\Debug\IMPRESORAQR.Resources.resources
+\\192.168.15.15\grifos\2018\NUEVO SISTEMA 2017\IMPRESORAQR\IMPRESORAQR\obj\x86\Debug\GenerateResource.read.1.tlog
+\\192.168.15.15\grifos\2018\NUEVO SISTEMA 2017\IMPRESORAQR\IMPRESORAQR\obj\x86\Debug\GenerateResource.write.1.tlog
+\\192.168.15.15\grifos\2018\NUEVO SISTEMA 2017\IMPRESORAQR\IMPRESORAQR\obj\x86\Debug\IMPRESORAQR.exe
+\\192.168.15.15\grifos\2018\NUEVO SISTEMA 2017\IMPRESORAQR\IMPRESORAQR\obj\x86\Debug\IMPRESORAQR.xml
+\\192.168.15.15\grifos\2018\NUEVO SISTEMA 2017\IMPRESORAQR\IMPRESORAQR\obj\x86\Debug\IMPRESORAQR.pdb
+C:\Documents and Settings\DTRUJILLO.SVR-B1E789968D6\Escritorio\IMPRESORAQR\IMPRESORAQR\bin\Debug\IMPRESORAQR.exe
+C:\Documents and Settings\DTRUJILLO.SVR-B1E789968D6\Escritorio\IMPRESORAQR\IMPRESORAQR\bin\Debug\IMPRESORAQR.pdb
+C:\Documents and Settings\DTRUJILLO.SVR-B1E789968D6\Escritorio\IMPRESORAQR\IMPRESORAQR\bin\Debug\IMPRESORAQR.xml
+C:\Documents and Settings\DTRUJILLO.SVR-B1E789968D6\Escritorio\IMPRESORAQR\IMPRESORAQR\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DTRUJILLO.SVR-B1E789968D6\Escritorio\IMPRESORAQR\IMPRESORAQR\obj\x86\Debug\IMPRESORAQR.IMPRESORA.resources
+C:\Documents and Settings\DTRUJILLO.SVR-B1E789968D6\Escritorio\IMPRESORAQR\IMPRESORAQR\obj\x86\Debug\IMPRESORAQR.Resources.resources
+C:\Documents and Settings\DTRUJILLO.SVR-B1E789968D6\Escritorio\IMPRESORAQR\IMPRESORAQR\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\DTRUJILLO.SVR-B1E789968D6\Escritorio\IMPRESORAQR\IMPRESORAQR\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\DTRUJILLO.SVR-B1E789968D6\Escritorio\IMPRESORAQR\IMPRESORAQR\obj\x86\Debug\IMPRESORAQR.exe
+C:\Documents and Settings\DTRUJILLO.SVR-B1E789968D6\Escritorio\IMPRESORAQR\IMPRESORAQR\obj\x86\Debug\IMPRESORAQR.xml
+C:\Documents and Settings\DTRUJILLO.SVR-B1E789968D6\Escritorio\IMPRESORAQR\IMPRESORAQR\obj\x86\Debug\IMPRESORAQR.pdb

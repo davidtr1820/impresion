@@ -1,0 +1,199 @@
+|||^  EMP.TRANSP.FLORES HNOS SRL  
+
+|||^      R.U.C. 20119407738      
+
+^       Av.Jose Leonardo Ortiz 0.10        
+^       Lambayeque-Chiclayo-Chiclayo       
+
+^Agencia: PASEO DE LA REPUBLICA 627 LIMA LA
+^                 VICTORIA                 
+
+|||^FACTURA DE VENTA ELECTRONICA 
+|^  F505-00000133  
+ 
+^FECHA DE EMISION  : -03:21PM
+^NRO DOC           : 72677853
+^PASAJERO          : HÉCTOR MANUEL SALAZAR VELAZCO
+^COD.              : 500
+---------------------------------------
+^DETALLE DE SERVICIO               
+---------------------------------------
+||||^SERVICIO DE TRANSPORTE        
+^ORIGEN            : LIMA
+^DESTINO           : TACNA
+||||^SERVICIO        : DOR VIP 160
+|||^FECHA VIAJE    : 18/05/2019
+|||^HORA DE SALIDA : 
+|||^ASIENTO        : 33
+||||^DIREC.EMBARQUE : LIMA
+
+^---------------------------------------
+|||^TOTAL        S/ 120.00      
+^SON : CIENTO VEINTE CON 00/100 SOLES
+---------------------------------------
+^CODIGO : 98OyLYeKsSmBVaz/XSG2v1xmKbE=   
+^          Autorizado mediante          
+^             N° XXXXX/SUNAT             
+^ Representación impresa del comprobante 
+^     Términos y condiciones, visite     
+^                                       
+^Debe presentarse 30 minutos antes de la hora de salida.
+^  Al abordar el bus debe presentar la  
+^  representación impresa o digital del  
+^              comprobante.              
+^       No se aceptan cambios ni       
+^      devoluciones, Conservar su      
+^      comprobante ante cualquier      
+^             eventualidad             
+@@@20119407738|1|F505|00000133|0|120||1|72677853
+ 
+~~
+|||^  EMP.TRANSP.FLORES HNOS SRL  
+
+|||^      R.U.C. 20119407738      
+
+^       Av.Jose Leonardo Ortiz 0.10        
+^       Lambayeque-Chiclayo-Chiclayo       
+
+^Agencia: PASEO DE LA REPUBLICA 627 LIMA LA
+^                 VICTORIA                 
+
+|||^FACTURA DE VENTA ELECTRONICA 
+|^  F505-00000134  
+ 
+^FECHA DE EMISION  : -03:21PM
+^NRO DOC           : 78005390
+^PASAJERO          : GERARDO DAVID GOMEZ INGARUCA
+^COD.              : 500
+---------------------------------------
+^DETALLE DE SERVICIO               
+---------------------------------------
+||||^SERVICIO DE TRANSPORTE        
+^ORIGEN            : LIMA
+^DESTINO           : TACNA
+||||^SERVICIO        : DOR VIP 160
+|||^FECHA VIAJE    : 18/05/2019
+|||^HORA DE SALIDA : 
+|||^ASIENTO        : 36
+||||^DIREC.EMBARQUE : LIMA
+
+^---------------------------------------
+|||^TOTAL        S/ 120.00      
+^SON : CIENTO VEINTE CON 00/100 SOLES
+---------------------------------------
+^CODIGO : 98OyLYeKsSmBVaz/XSG2v1xmKbE=   
+^          Autorizado mediante          
+^             N° XXXXX/SUNAT             
+^ Representación impresa del comprobante 
+^     Términos y condiciones, visite     
+^                                       
+^Debe presentarse 30 minutos antes de la hora de salida.
+^  Al abordar el bus debe presentar la  
+^  representación impresa o digital del  
+^              comprobante.              
+^       No se aceptan cambios ni       
+^      devoluciones, Conservar su      
+^      comprobante ante cualquier      
+^             eventualidad             
+@@@20119407738|1|F505|00000134|0|120||1|78005390
+
+~~ 
+|||^  EMP.TRANSP.FLORES HNOS SRL  
+
+|||^      R.U.C. 20119407738      
+
+^       Av.Jose Leonardo Ortiz 0.10        
+^       Lambayeque-Chiclayo-Chiclayo       
+
+^Agencia: PASEO DE LA REPUBLICA 627 LIMA LA
+^                 VICTORIA                 
+
+|||^ BOLETA DE VENTA ELECTRONICA 
+|^  B500-00000149  
+ 
+^FECHA DE EMISION  : -03:21PM
+^NRO DOC           : 71018337
+^PASAJERO          : WILMER GOMEZ PRADO
+^COD.              : 500
+---------------------------------------
+^DETALLE DE SERVICIO               
+---------------------------------------
+||||^SERVICIO DE TRANSPORTE        
+^ORIGEN            : LIMA
+^DESTINO           : TACNA
+||||^SERVICIO        : DOR VIP 160
+|||^FECHA VIAJE    : 18/05/2019
+|||^HORA DE SALIDA : 
+|||^ASIENTO        : 39
+||||^DIREC.EMBARQUE : LIMA
+
+^---------------------------------------
+|||^TOTAL        S/ 120.00      
+^SON : CIENTO VEINTE CON 00/100 SOLES
+---------------------------------------
+^CODIGO : 98OyLYeKsSmBVaz/XSG2v1xmKbE=   
+^          Autorizado mediante          
+^             N° XXXXX/SUNAT             
+^ Representación impresa del comprobante 
+^     Términos y condiciones, visite     
+^                                       
+^Debe presentarse 30 minutos antes de la hora de salida.
+^  Al abordar el bus debe presentar la  
+^  representación impresa o digital del  
+^              comprobante.              
+^       No se aceptan cambios ni       
+^      devoluciones, Conservar su      
+^      comprobante ante cualquier      
+^             eventualidad             
+@@@20119407738|1|B500|00000149|0|120||1|71018337
+
+~~ 
+|||^  EMP.TRANSP.FLORES HNOS SRL  
+
+|||^      R.U.C. 20119407738      
+
+^       Av.Jose Leonardo Ortiz 0.10        
+^       Lambayeque-Chiclayo-Chiclayo       
+
+^Agencia: PASEO DE LA REPUBLICA 627 LIMA LA
+^                 VICTORIA                 
+
+|||^FACTURA DE VENTA ELECTRONICA 
+|^  F505-00000135  
+ 
+^FECHA DE EMISION  : -03:21PM
+^NRO DOC           : 43580620
+^PASAJERO          : DAVID ELADIO TRUJILLO NUÑEZ
+^COD.              : 500
+---------------------------------------
+^DETALLE DE SERVICIO               
+---------------------------------------
+||||^SERVICIO DE TRANSPORTE        
+^ORIGEN            : LIMA
+^DESTINO           : TACNA
+||||^SERVICIO        : DOR VIP 160
+|||^FECHA VIAJE    : 18/05/2019
+|||^HORA DE SALIDA : 
+|||^ASIENTO        : 42
+||||^DIREC.EMBARQUE : LIMA
+
+^---------------------------------------
+|||^TOTAL        S/ 120.00      
+^SON : CIENTO VEINTE CON 00/100 SOLES
+---------------------------------------
+^CODIGO : 98OyLYeKsSmBVaz/XSG2v1xmKbE=   
+^          Autorizado mediante          
+^             N° XXXXX/SUNAT             
+^ Representación impresa del comprobante 
+^     Términos y condiciones, visite     
+^                                       
+^Debe presentarse 30 minutos antes de la hora de salida.
+^  Al abordar el bus debe presentar la  
+^  representación impresa o digital del  
+^              comprobante.              
+^       No se aceptan cambios ni       
+^      devoluciones, Conservar su      
+^      comprobante ante cualquier      
+^             eventualidad             
+@@@20119407738|1|F505|00000135|0|120||1|43580620
+ 
